@@ -1,22 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <p>
+    <img src="https://capsule-render.vercel.app/api?text=Ahoj!🧹🐈‍⬛&animation=fadeIn&type=waving&color=gradient&height=100"/> 
+  </p>
 
-<!--
-**Retskey2/Retskey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  <div>
-  <a href="https://github.com/Retskey2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retskey2&layout=compact&langs_count=7&theme=rose_pine"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Retskey2&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <div align="center">
+    <a href="https://github.com/Retskey2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retskey2&layout=compact&langs_count=7&theme=rose_pine"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Retskey2&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  </div>
 </div>
