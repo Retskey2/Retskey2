@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<img hight="400" width="420" alt="GIF" align="right" src="https://github.com/Retskey2/Retskey2/blob/main/assets/glitch_text_one.gif">
+<img hight="420" width="420" alt="GIF" align="right" src="https://github.com/Retskey2/Retskey2/blob/main/assets/glitch_text_one.gif">
 
 ### — I am a 19 year old young **Web-Developer**. 
   
