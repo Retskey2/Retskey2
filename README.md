@@ -4,5 +4,6 @@
   </p>
 </div>
 <div>
+  <p>- I'm 19 years old Computer Science Learning Enthusiast.</p>
   <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Retskey2/Retskey2/blob/main/assets/glitch_text_one.gif">
 </div>
