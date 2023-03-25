@@ -34,22 +34,17 @@ class About extends Me {
 
 </br>
 
-## 💻 GitHub Profile Stats
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+<details>
+  <summary>:zap: GitHub Stats</summary>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Retskey2's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Retskey2&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Retskey2's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Retskey2&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   </a>
- </div>
+</details>
  
 </br>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
- 
 
 
