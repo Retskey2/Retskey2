@@ -6,10 +6,11 @@
 
 <img hight="400" width="420" alt="GIF" align="right" src="https://github.com/Retskey2/Retskey2/blob/main/assets/glitch_text_one.gif">
 
-### — I am a 19 year old young **Web-Developer**, which likes to just write code. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
+### — I am a 19 year old young **Web-Developer**. 
   
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Dart & WebDev**. 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy reading **Medium**. <br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Computer Science & WebDev**. 
+-  <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25" /> &nbsp; I just enjoy working on interesting projects and writing code. 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy reading **Medium** articles. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **WebDev, Anime, Gaming or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[RETSKEY](https://t.me/retskey)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fact: I love what I do. Especially **development and silent hill**..<br>
