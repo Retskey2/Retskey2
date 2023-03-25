@@ -4,5 +4,5 @@
   </p>
 </div>
 <div>
-  <img src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Retskey2/Retskey2/blob/main/assets/glitch_text_one.gif">
 </div>
