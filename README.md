@@ -6,7 +6,8 @@
 
 <img hight="400" width="420" alt="GIF" align="right" src="https://github.com/Retskey2/Retskey2/blob/main/assets/glitch_text_one.gif">
 
-### - I'm 19 years  old Computer Science Learning Enthusiast.
+### — I am a 19 year old young **Web-Developer**, which likes to just write code. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
+  
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Dart & WebDev**. 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy reading **Medium**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **WebDev, Anime, Gaming or anything**. <br>
