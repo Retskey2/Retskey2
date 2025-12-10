@@ -6,7 +6,7 @@
 
 <img hight="420" width="420" alt="GIF" align="right" src="https://github.com/Retskey2/Retskey2/blob/main/assets/glitch_text_one.gif">
 
-### — I am a 19 year old young **Web-Developer**. 
+### — I am a 22 year old young **Web-Developer**. 
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Retskey2&style=for-the-badge)
   
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Computer Science & WebDev**. 
